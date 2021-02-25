@@ -1,0 +1,7 @@
+{
+	"/typeahead/*":{
+		"target":"https://indexof.video",
+		"secure":false,
+		"loglevel":"debug"
+	}
+}
